@@ -33,7 +33,7 @@ type-name =
     "int", ("8" | "16" | "32" | "64")
     | "uint", ("8" | "16" | "32" | "64")
     | "float", ("32" | "64")
-    | "bool"
+    | "bool";
 
 separator-sign = " " | "\t" | "\n" | comment;
 ```
